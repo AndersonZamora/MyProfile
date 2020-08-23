@@ -1,0 +1,44 @@
+
+        #personal-image {
+
+         
+            background-repeat: no-repeat;
+            background-position: right;
+        }
+
+        #personal-margin {
+            margin-top: 150px;
+            margin-bottom: 150px;
+        }
+
+        .personal-text-title {
+
+            color: aliceblue;
+            font-family: 'Alata';
+        }
+
+        .personal-data-image {
+            margin-top: 50px;
+        }
+
+        .personal-data {
+
+            margin-top: 15px;
+        }
+
+        .about-me-image {
+
+            width: 10%;
+            margin-bottom: 15px;
+        }
+     
+        .personal-data-info {
+            font-size: 1.1rem;
+            font-family: 'Alata';
+        }
+        .image-icono{
+            width: 30px;
+        }
+        .link-icono {
+            margin-right: 10px;
+        }
